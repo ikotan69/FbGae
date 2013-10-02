@@ -35,6 +35,7 @@ window.fbAsyncInit = function () {
 	};
 };
 
+//javascript SDK
 $(function () {
 	(function () {
 		var e = document.createElement('script');
